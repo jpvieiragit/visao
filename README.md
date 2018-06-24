@@ -1,6 +1,6 @@
 # Simple script for capture camera in openCV 
 ## Dependencies 
-I recommend you use pipenv 
+I recommend you use [pipenv](https://github.com/pypa/pipenv).
 ``` 
 pipenv install 
 pipenv shell 
